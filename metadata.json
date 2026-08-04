@@ -1,0 +1,6 @@
+{
+  "name": "Ethio Telebirr Airtime Print",
+  "description": "Ethio Telebirr Agent & Customer Airtime Voucher Printing System with Bluetooth thermal printer support, balance management, and dynamic pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
